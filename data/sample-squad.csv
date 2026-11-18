@@ -1,0 +1,75 @@
+name,pos,club,rating,pace,shooting,passing,dribbling,defending,physical,price
+Iker Salvatierra,GK,Northgate,88,58,24,72,48,88,84,120
+Tomas Vlk,GK,Riverton Athletic,84,60,20,66,44,82,80,48
+Danny Okonkwo,GK,Harrow Vale,79,62,18,58,40,76,78,18
+Pavel Hruby,GK,Calder Town,74,55,15,52,36,70,74,6
+Sam Achebe,GK,Northgate,68,58,14,46,32,64,68,1.5
+Luca Baresi,GK,Ironbridge,63,52,12,42,30,58,62,0.8
+Viktor Halland,CB,Northgate,90,72,42,74,58,91,90,180
+Moussa Diakhate,CB,Riverton Athletic,87,80,38,68,54,88,88,110
+Owen Prewitt,CB,Harrow Vale,84,68,34,64,50,85,86,62
+Jonas Kleiber,CB,Calder Town,82,70,30,62,48,83,84,44
+Rafael Amoedo,CB,Southmoor,80,66,28,60,46,81,82,30
+Kofi Mensah,CB,Ironbridge,78,78,26,58,44,79,84,22
+Ewan McAllister,CB,Northgate,76,64,24,56,42,77,80,14
+Dario Pinheiro,CB,Ferngrove,74,62,22,54,40,75,78,9
+Tobias Reuter,CB,Riverton Athletic,72,60,20,52,38,73,76,5
+Abel Quintero,CB,Calder Town,69,58,18,50,36,70,73,2.2
+Callum Ridgeway,CB,Harrow Vale,66,56,16,48,34,67,70,1.1
+Nils Bergstrom,CB,Brackenford,63,54,14,45,32,64,67,0.6
+Mateo Ferreyra,LB,Riverton Athletic,86,88,52,78,74,78,72,95
+Josh Amankwah,LB,Northgate,83,86,46,74,70,76,70,58
+Rui Esteves,LB,Southmoor,80,84,42,72,68,74,68,34
+Tariq Belkacem,LB,Ironbridge,77,82,38,68,64,71,66,17
+Femi Adeyemi,LB,Ferngrove,73,80,34,64,60,68,64,6.5
+Stan Newbold,RB,Northgate,85,87,48,76,72,77,71,82
+Nico Alvarado,RB,Calder Town,82,85,44,72,68,75,69,46
+Kwame Boateng,RB,Harrow Vale,79,83,40,70,66,72,67,26
+Ilya Sorokin,RB,Brackenford,75,81,36,66,62,69,65,11
+Bertie Lyle,RB,Southmoor,71,79,32,62,58,66,63,3.8
+Andre Kouassi,LWB,Riverton Athletic,84,90,50,76,76,70,66,70
+Ronan Doherty,LWB,Ferngrove,76,86,40,68,66,64,62,12
+Hamza Serkan,RWB,Northgate,83,89,48,74,74,69,65,60
+Diego Marchetti,RWB,Ironbridge,74,85,38,66,64,63,61,9.5
+Emre Yildiz,CM,Northgate,91,76,72,92,88,68,70,210
+Adrien Vasseur,CM,Riverton Athletic,89,74,70,90,86,66,68,165
+Sebastian Rothe,CM,Harrow Vale,86,72,66,86,82,64,66,88
+Joseph Mbeki,CM,Calder Town,84,78,62,84,80,66,72,64
+Finn Halloran,CM,Southmoor,82,74,58,82,78,62,68,40
+Mikel Etxeberria,CM,Ironbridge,79,70,54,78,74,60,64,20
+Ola Nordvik,CM,Brackenford,76,72,50,76,70,58,66,11
+Kian Whitlock,CM,Ferngrove,72,70,46,72,66,56,62,4.5
+Yusuf Cetin,CDM,Northgate,88,68,44,84,72,86,86,140
+Aleksandar Ilic,CDM,Riverton Athletic,85,66,40,80,68,84,84,80
+Bruno Salgado,CDM,Harrow Vale,81,64,36,76,64,81,82,36
+Rory Fenwick,CDM,Calder Town,77,66,32,72,60,78,80,15
+Dembo Cisse,CDM,Ironbridge,73,72,28,68,56,74,78,5.5
+Kenji Morita,CAM,Northgate,90,82,86,90,92,42,58,190
+Thiago Rondon,CAM,Riverton Athletic,87,80,82,86,88,40,56,115
+Isak Lindqvist,CAM,Southmoor,83,78,74,82,84,38,54,52
+Amadou Traore,CAM,Harrow Vale,80,84,70,78,80,36,52,28
+Lucas Peixoto,CAM,Calder Town,76,76,64,74,76,34,50,10
+Bobby Nkemdirim,LM,Riverton Athletic,84,88,66,80,84,52,60,68
+Will Fenner,LM,Brackenford,78,86,58,74,78,48,56,14
+Santi Buendia,LM,Ferngrove,73,84,52,70,72,44,52,5
+Marcus Oyelaran,RM,Northgate,85,89,68,82,86,54,62,78
+Elliot Vance,RM,Southmoor,80,87,60,76,80,50,58,24
+Ravi Chandran,RM,Ironbridge,75,85,54,72,74,46,54,7
+Fabio Mancuso,ST,Riverton Athletic,92,90,93,72,86,38,84,220
+Jonas Wickham,ST,Northgate,90,88,90,70,84,36,86,175
+Ousmane Balde,ST,Harrow Vale,87,94,84,66,80,34,82,105
+Tobias Grunewald,ST,Calder Town,84,82,82,64,76,32,80,60
+Sean Mulligan,ST,Southmoor,81,86,76,62,72,30,78,32
+Vasily Petrov,ST,Ironbridge,78,80,72,60,68,28,76,16
+Chidi Eze,ST,Brackenford,75,88,68,58,64,26,74,8
+Nathan Twigg,ST,Ferngrove,71,84,62,56,60,24,72,3.2
+Leandro Cabral,CF,Northgate,89,84,86,78,86,36,74,150
+Harvey Sinclair,CF,Riverton Athletic,86,82,82,76,82,34,72,88
+Adam Kovac,CF,Harrow Vale,82,80,76,74,78,32,70,42
+Emeka Nwosu,CF,Southmoor,78,86,70,70,74,30,68,18
+Mateus Vinicius,LW,Northgate,88,93,80,78,90,34,64,130
+Zakaria Fofana,LW,Riverton Athletic,85,92,74,74,86,32,62,72
+Gareth Lomax,LW,Calder Town,79,90,66,70,80,30,60,20
+Nikolai Rybakov,RW,Ironbridge,86,92,76,76,88,32,62,95
+Ayo Bankole,RW,Harrow Vale,82,90,70,72,82,30,60,38
+Charlie Spooner,RW,Brackenford,76,88,62,68,76,28,58,9
